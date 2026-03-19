@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110721761953",
+    "project_id": "queue-time-predictor-a2343",
+    "storage_bucket": "queue-time-predictor-a2343.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110721761953:android:09a0685b55741cbe0ea6e0",
+        "android_client_info": {
+          "package_name": "com.example.queuepredictor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX3d74uzLEjs-TYOHyKIyNa7_pAS-CYDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
